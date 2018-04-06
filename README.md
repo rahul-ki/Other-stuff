@@ -7,4 +7,9 @@ Can I get free home delivery?
 How do I find out the opening times, addresses and facilities for M&S stores in the UK?
 I have lost my receipt, can I still get a refund?
 Also added an extra functionality where you can type in anything starting with `"hi", "hello" or "hey"` and it tags you and replies "hey, what can I do for you?"
-Everything is `case-INSENSITIVE`. 
+Everything is `case-INSENSITIVE`.
+
+## International Standard Atmosphere (ISA) - 3 files
+The time when I did some extra basic Aeronautics. The files assignment.py and sec2 part e.py were done to help my friend, who was at doing an Astronautics degre.I did ISA.py for myself because I was doing a basic introduction to Astronautics and that involved the atmosphere.
+
+The 3 files are basically quiet similar to themselves. They take in a height and ouput out temperature, pressure and density at that height. Different stages of the atmosphere have different properties and thus need special equations to determine their values.`g = 9.80065` but because g is downwards we use g as negative so `g = -9.80065`. Using the SI Units, `Pressure` is measured in `Pascal(Pa)`, `Temperature` in `Kelvin(K)`, `Density` in `kg/m3` (metre-cubed)
